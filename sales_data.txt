@@ -1,0 +1,8 @@
+T-Shirt,Clothing,20.00,5
+Laptop,Electronics,1000.00,1
+Toaster,Home,30.00,2
+Jeans,Clothing,50.00,2
+TV,Electronics,600.00,2
+BadLine,NoNumbers,Here
+Blender,Home,40.00,1
+Sneakers,Clothing,120.00,1

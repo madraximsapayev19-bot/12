@@ -1,0 +1,10 @@
+CATEGORY REVENUE SUMMARY
+------------------------
+Clothing: $320.00
+Electronics: $2200.00
+Home: $100.00
+
+HIGH VALUE TRANSACTIONS (> $500)
+--------------------------------
+Laptop: $1000.00
+TV: $1200.00
